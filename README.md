@@ -3,9 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/amrutprabhu42" target="blank"><img src="https://img.shields.io/twitter/follow/amrutprabhu42?logo=twitter&style=for-the-badge" alt="amrutprabhu42" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/amrutprabhu](https://github.com/amrutprabhu)
+
 - 📝 I regularly write articles on [https://refactorfirst.com](https://refactorfirst.com)
 
-- 💬 Ask me about **Java, Spring Boot, Kubernetes, Docker, Helm**
+- 💬 Ask me about **Java, Spring Boot, Kubernetes, Docker**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/amrut-prabhu](https://www.linkedin.com/in/amrut-prabhu)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,7 +21,7 @@
 <a href="https://linkedin.com/in/amrut-prabhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrut-prabhu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11460723/amrut-prabhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11460723/amrut-prabhu" height="30" width="40" /></a>
 <a href="https://medium.com/@amrutprabhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amrutprabhu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/refactor first" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="refactor first" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/refactorfirst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="refactorfirst" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutprabhu&show_icons=true&theme=dark&locale=en" alt="amrutprabhu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutprabhu&" alt="amrutprabhu" /></p>
+
