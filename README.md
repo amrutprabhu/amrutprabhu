@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrut Prabhu</h1>
 <h3 align="center">A Passionate Backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrutprabhu" alt="amrutprabhu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/amrutprabhu42" target="blank"><img src="https://img.shields.io/twitter/follow/amrutprabhu42?logo=twitter&style=for-the-badge" alt="amrutprabhu42" /></a> </p>
 
 - 📝 I regularly write articles on [https://refactorfirst.com](https://refactorfirst.com)
@@ -28,5 +26,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrutprabhu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amrutprabhu" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutprabhu&show_icons=true&locale=en&layout=compact" alt="amrutprabhu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutprabhu&show_icons=true&locale=en&layout=compact" alt="amrutprabhu" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutprabhu&show_icons=true&theme=dark&locale=en" alt="amrutprabhu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutprabhu&" alt="amrutprabhu" /></p>
